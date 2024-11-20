@@ -35,7 +35,7 @@
 
 | **Experience** | **Achievements** |
 |-----------------|------------------|
-| 🏢 **Software Engineering Intern** at **[GIC](https://www.gic.com.sg)** <br> - Improved API response times by 93%. <br> - Built CI/CD pipelines for cloud deployment. | 🥇 **Hackathon Finalists**: Built full-stack software in 24 hours |
+| 🏢 **Software Engineering Intern** at **[GIC](https://www.gic.com.sg)** <br> - Improved API response times by 93%. <br> - Built CI/CD pipelines for cloud deployment. | 🥇 **Hackathon Finalists**: Built full-stack software in 24 hours. |
 | 🖥️ **Director (IT)** at **PINTU NTU** <br> - Led 13-member team to develop PINTU’s website and app. <br> - Added autosave, e-commerce, and payment features. | 🎓 **Top Achiever** in modules like: <br> - Data Structures and Algorithms <br> - Software Engineering <br> - Data Science and Artificial Intelligence |
 | 📱 **Mobile App Developer** <br> - Led a 9-member team to build a car auction app with React Native. | 🏆 **Dean’s List** 2023 & 2024 for academic excellence. |
 
