@@ -51,9 +51,9 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn: bryannoelsalindeho](https://img.shields.io/badge/-Bryan%20Noel%20Salindeho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryannoelsalindeho)](https://www.linkedin.com/in/bryannoelsalindeho/)  
-[![GitHub: bryannoels](https://img.shields.io/github/followers/bryannoels?label=Follow%20Me&style=social)](https://github.com/bryannoels)  
-[![Website: bryannoels.github.io](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://bryannoels.github.io)](https://bryannoels.github.io)
+[![LinkedIn: bryannoelsalindeho](https://img.shields.io/badge/-Bryan%20Noel%20Salindeho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryannoelsalindeho)](https://www.linkedin.com/in/bryannoelsalindeho/)  [![GitHub: bryannoels](https://img.shields.io/github/followers/bryannoels?label=Follow%20Me&style=social)](https://github.com/bryannoels)  [![Website: bryannoels.github.io](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://bryannoels.github.io)](https://bryannoels.github.io)
+
+
 
 ---
 
