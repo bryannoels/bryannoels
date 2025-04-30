@@ -22,7 +22,7 @@
 `JavaScript` · `TypeScript` · `Python` · `C++` · `Java` · `Kotlin` · `SQL`  
 
 **Frameworks & Tools:**  
-`React` · `Redux` · `Node.js` · `Django` · `Quarkus` · `Docker` · `GitLab CI/CD`  
+`React` · `Angular` · `Redux` · `Node.js` · `Django` · `Quarkus` · `Docker` · `GitLab CI/CD`  
 
 **Specializations:**  
 - Frontend Development | Backend Development  
